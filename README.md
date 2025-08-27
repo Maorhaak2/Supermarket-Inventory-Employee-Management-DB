@@ -22,7 +22,7 @@ Requirements: Python 3.9+ (no external packages needed)
 python initiate.py config.txt
 
 # execute activities
-python action.py actions.txt
+python action.py action.txt
 
 # print tables and reports
 python printdb.py
